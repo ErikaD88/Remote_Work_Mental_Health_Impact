@@ -34,3 +34,4 @@ Both regions have minimal representation in the 61-80 hour bin, suggesting that 
 Our final analysis:
 1) In this study, 73% of the North American remote workers have a mental health condition.  It is evenly split between depression, burnout and anxiety.
 2) Female remote workers are experiencing depression at a higher rate and male remote workers are experiencing anxiety at a higher rate.
+3) Recommendation: Organizations should consider monitoring and limiting work hours to optimize productivity and employee well-being.
