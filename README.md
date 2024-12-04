@@ -19,7 +19,8 @@ Question 3:
 What is the prevalence of mental health conditions among remote workers?
 
 Question 4:
-How do the number of hours worked per week and regional differences impact employee productivity in remote work environments in North America vs. Asia?
+How do the number of hours worked per week and regional differences impact employee productivity in remote work environments in North America vs. Asia? Erika Dorsainvil/Lorelei Legg/Patrick Feeney
+
 
 
 
