@@ -23,6 +23,10 @@ We further looked at how the data broke down by gender.  We had 4 categories of 
 Question 4:
 How do the number of hours worked per week and regional differences impact employee productivity in remote work environments in North America vs. Asia? Erika Dorsainvil/Lorelei Legg/Patrick Feeney
 
+In North America, productivity changes are relatively balanced across the 21-40 and 41-60 hour bins, with many employees reporting "No Change" or an "Increase" in productivity. In contrast, Asia shows a greater occurrence of "Decrease" in productivity within these same hour ranges, indicating potential challenges associated with longer working hours in remote settings.
+
+Both regions have minimal representation in the 61-80 hour bin, suggesting that few employees work extensive hours. Despite this, productivity outcomes in this category vary significantly. North America shows more stable and positive productivity trends, while Asia has more variation and challenges. This could be due to differences in culture, workplace practices, or resources. These results suggest the importance of creating remote work policies and support systems that are tailored to the unique needs of each region.
+
 
 
 
