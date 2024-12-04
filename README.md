@@ -10,7 +10,7 @@ Intro:
 We wanted to look at the relationship between remote work and mental health because remote work has become the new normal, especially since the pandemic in 2020.  The dataset collected 5,000 records worldwide to see how remote work affected stress levels, work/life balance, mental health conditions, job satisfaction, etc.  This raised some interesting questions for our group and we decided to dig a little deeper, focusing mostly on the North American region.
 
 Question 1:  
-How do stress levels vary across different industries in remote work environments?
+How do stress levels vary across different industries in remote work environments?  Curtis McMullen/Jim Cruz
 
 Question 2:
 What is the impact of remote work on social isolation and work/life balance?
