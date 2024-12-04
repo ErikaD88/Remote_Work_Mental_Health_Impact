@@ -11,12 +11,16 @@ We wanted to look at the relationship between remote work and mental health beca
 
 Question 1:  
 How do stress levels vary across different industries in remote work environments?  Curtis McMullen/Jim Cruz
+
 Healthcare industry has the largest average stress level compared to other industries in North America. The jobs in healthcare with highest average stress level is tied with HR and Marketing.
+
 Question 2:
-What is the impact of remote work on social isolation and work/life balance?
+What is the impact of remote work on social isolation and work/life balance? Justin Crockett and Amy Goodwin
+
 
 Question 3:
 What is the prevalence of mental health conditions among remote workers?  Atnafu Ayalew/Alison Driscoll
+
 We filtered the data to look specifically at North American remote workers.  Of the 264 workers, 193 of them have a mental health condition.  There were 3 conditions listed:  depression, burnout and anxiety.  The breakdown is evenly split between the 3 conditions for remote workers.  We represented the data in a bar chart to show them side by side and then a pie chart to show the breakdown in percentages.
 We further looked at how the data broke down by gender.  We had 4 categories of gender listed:  Female, Male, Non-Binary and Prefer Not to Say.  We created the bar chart visualization to show side by side comparison and also broke it down in percentages in a pie chart.
 
