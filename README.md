@@ -4,7 +4,7 @@ How Does Remote Work Affect Mental Health?
 Team Delta Contributors:  Justin Crockett, Lorelei Legg, Atnafu Ayalew, Amy Goodwin, Curtis McMullen, Patrick Feeney, Jim Cruz, Erika Dorsainvil and Alison Driscoll
 
 Datasets used:
-	Impact_of_Remote_Work_on_Mental_Health.csv from Kaggle.com
+	Impact_of_Remote_Work_on_Mental_Health.csv from Kaggle.com : https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data
  
 Intro:  
 We wanted to look at the relationship between remote work and mental health because remote work has become the new normal, especially since the pandemic in 2020.  The dataset collected 5,000 records worldwide to see how remote work affected stress levels, work/life balance, mental health conditions, job satisfaction, etc.  This raised some interesting questions for our group and we decided to dig a little deeper, focusing mostly on the North American region.
