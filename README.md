@@ -11,8 +11,8 @@ We wanted to look at the relationship between remote work and mental health beca
 
 Question 1:  
 How do stress levels vary across different industries in remote work environments?  Curtis McMullen/Jim Cruz
-
-Healthcare industry has the largest average stress level compared to other industries in North America. The jobs in healthcare with highest average stress level is tied with HR and Marketing.
+For North America stress levels vary across different industries. We found that for the most part remote work was less stressful than the work locations. This was suprising due to the lack of cummuting, planning meals, childcare, and using sick time. We created a chart to show the side by side comparison of industries and work locations grouped together.
+One area that was particularly interesting was the healthcare industry. Remote workers in this industry had the highest stess rate. We dug deeper into the data and analyzed the healthcare industry by job title. We created a chart illustrating the results and saw that both HR and Marketing had the highest stresslevels by far. This could be due to their job requirement to interact with the workforce.
 
 Question 2:
 What is the impact of remote work on social isolation and work/life balance? Justin Crockett and Amy Goodwin
