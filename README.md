@@ -5,6 +5,9 @@ Team Delta Contributors:  Justin Crockett, Lorelei Legg, Atnafu Ayalew, Amy Good
 
 Datasets used:
 	Impact_of_Remote_Work_on_Mental_Health.csv from Kaggle.com : https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data
+
+Slideshow Presentation:
+	https://docs.google.com/presentation/d/1ABMSyB5QLPTpcm0H-bcXhZfBRSxjUfZZ/edit?usp=sharing&ouid=117240625209536721224&rtpof=true&sd=true
  
 Intro:  
 We wanted to look at the relationship between remote work and mental health because remote work has become the new normal, especially since the pandemic in 2020.  The dataset collected 5,000 records worldwide to see how remote work affected stress levels, work/life balance, mental health conditions, job satisfaction, etc.  This raised some interesting questions for our group and we decided to dig a little deeper, focusing mostly on the North American region.
